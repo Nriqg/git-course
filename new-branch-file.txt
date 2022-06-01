@@ -1,2 +1,2 @@
-New file on new branch
+New branch file shows on both branches
 
